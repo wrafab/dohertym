@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<style>
+div.container {
+}
+div.container p {
+font-family: Times;
+font-size: 12px;
+font-style: normal;
+font-weight: normal;;
+color: blue
+text-align: center
+}
+</style>
+
+<div class="container">
+<font size="500"> <text color=white> <p> Projects </p> 
+
+</div>
+
+<body background="wsb3.jpg">
+
+  <p> During the second rotation, we learned what rasters and vectors are. We also messed around with some 3D design programs 
